@@ -1,0 +1,11 @@
+.vs/
+*.user
+*.suo
+*.dbmdl
+*.log
+*.bak
+*.cache
+bin/
+obj/
+App_Data/*.ldf
+App_Data/*.mdf
