@@ -1,11 +1,28 @@
-.vs/
-*.user
-*.suo
-*.dbmdl
-*.log
-*.bak
-*.cache
+# Build results
 bin/
 obj/
-App_Data/*.ldf
+*.user
+*.suo
+*.cache
+*.log
+
+# VS-specific
+.vs/
+*.dbmdl
+*.psess
+*.vspx
+*.vssscc
+*.csproj.user
+
+# IIS Express
+/.vs/
+*.iisexpress
+
+# Publish
+*.publish.xml
+
+# Web.Config secrets (optional)
+web.config.user
+
 App_Data/*.mdf
+App_Data/*.ldf
