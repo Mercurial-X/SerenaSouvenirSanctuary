@@ -1,7 +1,7 @@
 # Serena Souvenir Sanctuary
 
 An interactive and dynamic e-commerce website built using **ASP.NET Web Forms** with **SQL Server Express** database integration.  
-This project is developed as part of the *Internet Applications* module at **Asia Pacific University of Technology & Innovation (CT069-3-M-IA VE1)**.
+This project is developed as part of the *Internet Applications* 
 
 ---
 
